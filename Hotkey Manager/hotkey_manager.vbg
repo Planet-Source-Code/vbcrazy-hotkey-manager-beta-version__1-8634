@@ -1,0 +1,10 @@
+VBGROUP 5.0
+StartupProject=hotkey_manager\hotkey_manager.vbp
+Project=axsubclass\AxSubclass.vbp
+Project=axhotkey\AxHotkey.vbp
+Project=grid\AxGrid.vbp
+Project=imagelist\AxImageList.vbp
+Project=aol_style_button\AxAOLCmd.vbp
+Project=systray\AxTray.vbp
+Project=axflatcontrol\AxFlatControl.vbp
+Project=axhittest\AxHitTest.vbp

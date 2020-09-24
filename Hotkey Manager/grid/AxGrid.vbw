@@ -1,0 +1,7 @@
+cFlatHeader = 110, 110, 425, 430, C
+AxGridCtl = 110, 110, 553, 430, C, 44, 44, 354, 364, C
+cGridCell = 0, 0, 0, 0, C
+cHeaderControl = 0, 0, 0, 0, C
+cScrollBars = 0, 0, 0, 0, C
+cShellSortTGridCells = 0, 0, 0, 0, C
+mAPIAndCallbacks = 44, 44, 499, 364, C

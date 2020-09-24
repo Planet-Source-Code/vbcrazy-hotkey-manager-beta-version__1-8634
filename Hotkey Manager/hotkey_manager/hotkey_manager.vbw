@@ -1,0 +1,7 @@
+frmHotkey = 44, 44, 489, 364, C, 66, 66, 511, 386, C
+clsOSVerInfo = 0, 0, 0, 0, C
+frmAbout = 154, 154, 599, 474, C, 132, 132, 577, 452, C
+modLoadResItem = 0, 0, 0, 0, C
+frmCustom = 88, 88, 533, 408, C, 22, 22, 467, 342, C
+modCenterDlg = 0, 0, 0, 0, C
+modDeclare = 154, 154, 599, 474, C
